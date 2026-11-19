@@ -50,8 +50,8 @@ I hate it --> Negative 😠
 ```
 
 🧑‍💻 Author
-This project is part of my journey to learn AI through hands-on projects.
-Follow me on linkedin.com/in/mahnaz-mirhosseini for updates on my learning path.
+
+Follow me on linkedin.com/in/mahnaz-mirhosseini 
 
 
 #Python #MachineLearning #NLP #NaiveBayes #SentimentAnalysis #AIProjects #BeginnerAI
